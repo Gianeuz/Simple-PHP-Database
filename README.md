@@ -1,2 +1,2 @@
 # Simple-PHP-Database
-Student information database
+Student information
